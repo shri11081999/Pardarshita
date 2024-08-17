@@ -101,10 +101,10 @@ Throughout the development of Pardarshita, I gained experience and honed my skil
 - **Collaboration**: Working effectively with team members and managing project development under tight deadlines during YHack 2020.
 
 ## 👥 Contributors
-Shriniket Dixit
-Anant Kuamr
-Tanmay Misra
-Shashwat Sinha
+- Shriniket Dixit
+- Anant Kuamr
+- Tanmay Misra
+- Shashwat Sinha
 
 ## 🤝 Contributing
 Feel free to make any changes in the project.
