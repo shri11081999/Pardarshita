@@ -20,7 +20,7 @@ Pardarshita is a transparent governance tool that enables citizens to:
 
 This platform fosters accountability and trust by providing a space for people to be heard and for the government to respond promptly and effectively.
 
-## 🏆 Achievements
+## 🎯 Objective
 
 - **Social Impact**: Tackles governance and social issues by providing a transparent medium for communication between the government and the public.
 - **Empowerment**: Pardarshita empowers citizens to hold the government accountable through direct participation and real-time data insights.
@@ -107,7 +107,7 @@ Feel free to make any changes in the project.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📧 Contact
-I am currently seeking job opportunities in software development. Feel free to reach out or connect with me: dixitshriniket976@gmail.com
+Feel free to reach out or connect with me: dixitshriniket976@gmail.com
 
 ## 🌟 Acknowledgments
 Special thanks to the organizers of YHack 2020 for creating such an amazing platform and to all the mentors who provided invaluable guidance. A big thank you to my team members for their dedication and hard work during the project.
