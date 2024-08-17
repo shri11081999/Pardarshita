@@ -33,12 +33,12 @@ This platform fosters accountability and trust by providing a space for people t
 
 ## 📂 Repository Structure
 
-``bash
+```bash
 ├── src/
 │   ├── backend/   # Backend code for handling complaints, data aggregation, and processing
 │   ├── frontend/  # Frontend code including the UI/UX components
 │   └── database/  # Database schema and seed data
-
+```
 ## 💻 Getting Started
 
 To get started with the Pardarshita project, follow the instructions below.
