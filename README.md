@@ -33,14 +33,11 @@ This platform fosters accountability and trust by providing a space for people t
 
 ## 📂 Repository Structure
 
-```bash
+bash
 ├── src/
 │   ├── backend/  # Backend code for handling complaints, data aggregation, and processing
 │   ├── frontend/ # Frontend code including the UI/UX components
 │   └── database/ # Database schema and seed data
-├── docs/  # Documentation and API references
-├── tests/  # Unit and integration tests
-└── README.md  # This file
 
 ## 💻 Getting Started
 
@@ -103,10 +100,8 @@ Throughout the development of Pardarshita, I gained experience and honed my skil
 - **Problem-Solving**: Tackling real-world social issues by creating a scalable solution that bridges the gap between citizens and government.
 - **Collaboration**: Working effectively with team members and managing project development under tight deadlines during YHack 2020.
 
-
 ## 🤝 Contributing
 Feel free to make any changes in the project.
-
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
